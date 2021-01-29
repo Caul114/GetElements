@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>  
+	<AddIn Type="Application">
+		<Name>GetElements</Name>
+		<Assembly>GetElements.dll</Assembly>
+		<FullClassName>GetElements.App</FullClassName>
+		<ClientId>4027D6AF-4A11-4625-BB2A-66E791151288</ClientId>
+		<VendorId>BOLDstd</VendorId>
+		<VendorDescription>BOLDstd, http://boldstd.it/ </VendorDescription>
+	</AddIn>
+	<!--<AddIn Type="Command">
+		<Text>Command GetElements</Text>
+		<Description>Some description for GetElements</Description>
+		<Assembly>GetElements.dll</Assembly>
+		<FullClassName>GetElements.Command</FullClassName>
+		<ClientId>A1826BFB-470D-444A-B437-DF671CA012B3</ClientId>
+		<VendorId>BOLDstd</VendorId>
+		<VendorDescription>BOLDstd, http://boldstd.it/ </VendorDescription>
+	</AddIn>-->	
+</RevitAddIns>
